@@ -1,0 +1,264 @@
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Video.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Imaging.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Vision.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Math.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Vision.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Math.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Vision.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Math.dll
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.xml
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Vision.xml
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\VTS_Project.exe.config
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Math.dll
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Vision.xml
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\VTS_Project.Properties.Resources.resources
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\Abdurrahim Yılmaz 2. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\VTS\WindowsFormsApplication4\bin\Debug\VTS_Project.exe.config
+C:\Users\arahi\Desktop\VTS\WindowsFormsApplication4\obj\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\VTS\WindowsFormsApplication4\obj\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\VTS\WindowsFormsApplication4\bin\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\VTS\WindowsFormsApplication4\bin\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\VTS\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\arahi\Desktop\VTS\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+C:\Users\arahi\Desktop\VTS\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+C:\Users\arahi\Desktop\VTS\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\arahi\Desktop\VTS\WindowsFormsApplication4\bin\Debug\AForge.Vision.xml
+C:\Users\arahi\Desktop\VTS\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\arahi\Desktop\VTS\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\VTS\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\arahi\Desktop\VTS\WindowsFormsApplication4\obj\Debug\VTS_Project.Properties.Resources.resources
+C:\Users\arahi\Desktop\VTS\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\arahi\Desktop\Ödev\WindowsFormsApplication4\bin\Debug\VTS_Project.exe.config
+C:\Users\arahi\Desktop\Ödev\WindowsFormsApplication4\bin\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\Ödev\WindowsFormsApplication4\bin\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\Ödev\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\arahi\Desktop\Ödev\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+C:\Users\arahi\Desktop\Ödev\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\arahi\Desktop\Ödev\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+C:\Users\arahi\Desktop\Ödev\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\arahi\Desktop\Ödev\WindowsFormsApplication4\bin\Debug\AForge.Vision.xml
+C:\Users\arahi\Desktop\Ödev\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\Ödev\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\arahi\Desktop\Ödev\WindowsFormsApplication4\obj\Debug\VTS_Project.Properties.Resources.resources
+C:\Users\arahi\Desktop\Ödev\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\arahi\Desktop\Ödev\WindowsFormsApplication4\obj\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\Ödev\WindowsFormsApplication4\obj\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\bin\Debug\VTS_Project.exe.config
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\obj\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\obj\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\bin\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\bin\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\bin\Debug\AForge.Video.VFW.dll
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\bin\Debug\AForge.Video.VFW.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\bin\Debug\AForge.Vision.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\obj\Debug\VTS_Project.Properties.Resources.resources
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\bin\Debug\AForge.Controls.dll
+C:\Users\arahi\Desktop\Ödev (Dosyadan)\WindowsFormsApplication4\bin\Debug\AForge.Controls.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\bin\Debug\VTS_Project.exe.config
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\obj\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\obj\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\bin\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\bin\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\bin\Debug\AForge.Controls.dll
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\bin\Debug\AForge.Video.VFW.dll
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\bin\Debug\AForge.Controls.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\bin\Debug\AForge.Video.VFW.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\bin\Debug\AForge.Vision.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\obj\Debug\VTS_Project.Properties.Resources.resources
+C:\Users\arahi\Desktop\Ödev (Dosyadan) - Kopya\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\bin\Debug\VTS_Project.exe.config
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\obj\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\obj\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\bin\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\bin\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\bin\Debug\AForge.Controls.dll
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\bin\Debug\AForge.Video.VFW.dll
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\bin\Debug\AForge.Controls.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\bin\Debug\AForge.Video.VFW.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\bin\Debug\AForge.Vision.xml
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\obj\Debug\VTS_Project.Properties.Resources.resources
+C:\Users\arahi\Desktop\Ödev (Dosyadan) w Hareket Algılayıcı\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\bin\Debug\VTS_Project.exe.config
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\obj\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\obj\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\bin\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\bin\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\bin\Debug\AForge.Controls.dll
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\bin\Debug\AForge.Video.VFW.dll
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\bin\Debug\AForge.Controls.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\bin\Debug\AForge.Video.VFW.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\bin\Debug\AForge.Vision.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\obj\Debug\VTS_Project.Properties.Resources.resources
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\bin\Debug\VTS_Project.exe.config
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\obj\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\obj\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\bin\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\bin\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\bin\Debug\AForge.Controls.dll
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\bin\Debug\AForge.Video.VFW.dll
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\bin\Debug\AForge.Controls.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\bin\Debug\AForge.Video.VFW.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\bin\Debug\AForge.Vision.xml
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\obj\Debug\VTS_Project.Properties.Resources.resources
+C:\Users\arahi\Desktop\Dosyadan 2. Aşama w Hareket Algılayıcı (2. Video İçin Tamam)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\bin\Debug\VTS_Project.exe.config
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\obj\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\obj\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\bin\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\bin\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\bin\Debug\AForge.Controls.dll
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\bin\Debug\AForge.Video.VFW.dll
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\bin\Debug\AForge.Controls.xml
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\bin\Debug\AForge.Video.VFW.xml
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\bin\Debug\AForge.Vision.xml
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\obj\Debug\VTS_Project.Properties.Resources.resources
+C:\Users\arahi\Desktop\deneme1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\bin\Debug\VTS_Project.exe.config
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\obj\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\obj\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\bin\Debug\VTS_Project.exe
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\bin\Debug\VTS_Project.pdb
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\bin\Debug\AForge.Controls.dll
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\bin\Debug\AForge.Video.VFW.dll
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\bin\Debug\AForge.Controls.xml
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\bin\Debug\AForge.Video.VFW.xml
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\bin\Debug\AForge.Vision.xml
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\obj\Debug\VTS_Project.Properties.Resources.resources
+C:\Users\arahi\Desktop\ana dosya\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\bin\Debug\VTS_Project.exe.config
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\bin\Debug\VTS_Project.exe
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\bin\Debug\VTS_Project.pdb
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\bin\Debug\AForge.xml
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\bin\Debug\AForge.Controls.xml
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\bin\Debug\AForge.Video.FFMPEG.xml
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\bin\Debug\AForge.Video.VFW.xml
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\bin\Debug\AForge.Vision.xml
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\obj\Debug\VTS_Project.Properties.Resources.resources
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\obj\Debug\VTS_Project.exe
+F:\Hedef\Lisans\Eski\Yapılanlar\2017 GÜZ\Konferans - Mikro Robot\Açı Hesaplama İçin Yazılımlar\Açı Hesabı Son Hali\WindowsFormsApplication4\obj\Debug\VTS_Project.pdb
